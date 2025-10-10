@@ -31,8 +31,3 @@ API REST desenvolvida em **Node.js** que consome dados meteorológicos em tempo 
 ┗ 📜 README.md
 
 ---
-
-## 🧰 Observação
-- Arquivo .env com a chave da api foi excluido por ser uma chave pessoal. 
-
----
