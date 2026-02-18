@@ -13,7 +13,7 @@ Download: https://nodejs.org/
 
 ### 1. Clonar o repositório
 
-git clone https://github.com/joaopaulo-BDev/api-clima.git
+        git clone https://github.com/joaopaulo-BDev/api-clima.git
 
 ### 2. Acessar a pasta do projeto:
 
