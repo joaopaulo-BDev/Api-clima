@@ -17,9 +17,7 @@ app.get('/clima', async (req, res) => {
     const resposta = await axios.get(
       `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(cidade)}&appid=${apiKey}&units=metric&lang=pt_br`
     );
-    res.json(resposta.data);
-
-     res.json({
+    res.json({
         cidade: dados.name,
         pais: dados.sys.country,
         temperatura: dados.main.temp,
