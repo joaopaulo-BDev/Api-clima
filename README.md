@@ -1,8 +1,8 @@
-# 🌦️ API de Clima
+# API de Clima
 
 API REST desenvolvida em **Node.js** que consome dados meteorológicos em tempo real a partir da API pública **OpenWeatherMap**.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Consulta o clima atual de qualquer cidade.
 - Retorna temperatura, sensação térmica, umidade e condições do tempo.
@@ -11,7 +11,7 @@ API REST desenvolvida em **Node.js** que consome dados meteorológicos em tempo 
   
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js** – Ambiente de execução JavaScript no servidor.  
 - **Express.js** – Framework minimalista para criação de rotas e servidor HTTP.  
@@ -21,18 +21,13 @@ API REST desenvolvida em **Node.js** que consome dados meteorológicos em tempo 
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
-📦 api-clima
+api-clima
 ┣ 📜 .env
 ┣ 📜 Dockerfile
 ┣ 📜 package.json
 ┣ 📜 index.js
 ┗ 📜 README.md
-
----
-
-## 🧰 Observação
-- Arquivo .env com a chave da api foi excluido por ser uma chave pessoal. 
 
 ---
